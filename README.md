@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋, I'm Muhammad Atif Rashid
+# Experienced Android & Mobile App Developer | Computer Science Graduate
 
 <!--
 **mAtifRashid/mAtifRashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
