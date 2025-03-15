@@ -1,11 +1,29 @@
-<h1 align="center">Hi 👋, I'm Muhammad Atif Rashid</h1>
-<h3 align="center">Experienced Android & Mobile App Developer | Computer Science Graduate</h3>
+# 👋 Hi, I'm [Your Name]  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-atif-rashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-atif-rashid" height="30" width="40" /></a>
-</p>
+### 🚀 Experienced Android & Mobile App Developer | Computer Science Graduate  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Passionate about building innovative mobile solutions with a strong foundation in Android development. I specialize in creating high-performance, scalable applications and integrating cutting-edge technologies like AI and NLP.  
 
+## 🛠 Tech Stack  
+- **Languages:** Kotlin, Java, Dart  
+- **Frameworks & Tools:** Jetpack Compose, MVVM, Retrofit, Room, Dagger/Hilt, Firebase  
+- **Cross-Platform:** Flutter  
+- **AI & NLP:** OpenAI APIs, Dialogflow, TensorFlow Lite  
+- **Other:** REST APIs, GraphQL, WebSockets, Payment SDKs  
+
+## 📌 Projects & Contributions  
+🔹 **MYClinic App** – Enhancing an international healthcare app with AI-powered chatbots and appointment booking.  
+🔹 **Chatbot Integration** – Implemented a dynamic chatbot UI with API-driven interactions.  
+🔹 **Payment Gateway** – Integrated Noon Payment SDK for seamless transactions.  
+
+## 📈 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/yourusername)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://yourportfolio.com)  
+
+---
+
+Let me know if you want any modifications! 🚀  
