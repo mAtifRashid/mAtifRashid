@@ -1,29 +1,58 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Muuhammad Atif Rashid  
 
-### 🚀 Experienced Android & Mobile App Developer | Computer Science Graduate  
+# 🚀 Experienced Android & Mobile Application Developer | Computer Science Graduate
 
-Passionate about building innovative mobile solutions with a strong foundation in Android development. I specialize in creating high-performance, scalable applications and integrating cutting-edge technologies like AI and NLP.  
-
-## 🛠 Tech Stack  
-- **Languages:** Kotlin, Java, Dart  
-- **Frameworks & Tools:** Jetpack Compose, MVVM, Retrofit, Room, Dagger/Hilt, Firebase  
-- **Cross-Platform:** Flutter  
-- **AI & NLP:** OpenAI APIs, Dialogflow, TensorFlow Lite  
-- **Other:** REST APIs, GraphQL, WebSockets, Payment SDKs  
-
-## 📌 Projects & Contributions  
-🔹 **MYClinic App** – Enhancing an international healthcare app with AI-powered chatbots and appointment booking.  
-🔹 **Chatbot Integration** – Implemented a dynamic chatbot UI with API-driven interactions.  
-🔹 **Payment Gateway** – Integrated Noon Payment SDK for seamless transactions.  
-
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/yourusername)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://yourportfolio.com)  
+With over 2 years of industry experience, I specialize in Android and mobile development, continuously evolving my skills in modern frameworks and technologies. Passionate about scalable solutions, clean architecture, and UI/UX enhancements. Currently, I contribute as an **Android Developer at [Techsasoft], [TechsaCare](https://techsacare.com)**, where I embrace challenges that drive growth and innovation.
 
 ---
 
-Let me know if you want any modifications! 🚀  
+## 📚 Current Learning Focus:
+- Jetpack Compose
+- KMP
+- Flutter
+
+---
+
+## 🔥 Live Projects
+
+### 🎯 **[My Clinic](https://play.google.com/store/apps/details?id=com.myclinic.ksa&hl=en)**
+A healthcare platform streamlining patient-doctor interactions, providing easy appointment scheduling, secure medical records, and telehealth consultations.
+
+### 🤰 **[iPregli](https://play.google.com/store/apps/details?id=com.techsasoft.pregli&hl=en)**
+A comprehensive pregnancy companion app offering AI-powered insights, health tracking, and expert guidance to assist expectant mothers throughout their journey.
+
+---
+
+## 🛠️ Technical Proficiencies
+
+### ⚡ **Core Programming Languages:**
+- Kotlin, Java,
+
+### 🌍 **Additional Technologies:**
+- Python, Swift, HTML, CSS, C/C++, Flutter
+
+### 🏗 **Software Architecture Expertise:**
+- MVVM, MVI, MVC
+
+### 📌 **Android Development Toolkit:**
+- Jetpack Compose, Flutter
+- KMP/CMP, Design Patterns, Clean Architecture (MVVM), Jetpack Navigation Components
+- GitHub Actions (CI/CD), Payment Gateways (Google IAP, Noon Payment, hyperpay)
+- Dependency Injection (Hilt), GitHub, GitLab, BitBucket
+- Firebase, One Signal Push Notifications, Animations, Remote Configuration
+- Analytics (Firebase, MixPanel), Material Design Guidelines (MDC)
+- REST APIs (Retrofit, OkHttp, Reqbin, Postman, Swagger)
+- State Management (Bloc/Cubit, Redux, Axios, Context Provider)
+- Android Studio IDE, Fleet, Sublime, VS Code
+- Jira, Slack, Google Meet
+
+### 🧠 **Machine Learning & Data Science Toolkit:**
+- NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Plotly, Keras, TensorFlow, Google Colab
+
+---
+## 📄 Europass CV
+You can view my detailed CV on Europass: [Muhammad Atif Rashid](https://europa.eu/europass/eportfolio/screen/profile?profileId=662f95ae96f03871ee680bc7&lang=en)
+
+## 🌍 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://wa.me/03029548818)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/muhammad-atif-rashid/)
