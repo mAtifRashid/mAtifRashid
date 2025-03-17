@@ -29,7 +29,7 @@ A comprehensive pregnancy companion app offering AI-powered insights, health tra
 - Kotlin, Java,
 
 ### 🌍 **Additional Technologies:**
-- Python, Swift, HTML, CSS, C/C++, Flutter
+- Python, Flutter, HTML, CSS, C/C++
 
 ### 🏗 **Software Architecture Expertise:**
 - MVVM, MVI, MVC
