@@ -21,6 +21,9 @@ A healthcare platform streamlining patient-doctor interactions, providing easy a
 ### 🤰 **[iPregli](https://play.google.com/store/apps/details?id=com.techsasoft.pregli&hl=en)**
 A comprehensive pregnancy companion app offering AI-powered insights, health tracking, and expert guidance to assist expectant mothers throughout their journey.
 
+### 🤰 **[fitbi](https://play.google.com/store/apps/details?id=com.techsacare.weighttracker&hl=en)**
+A comprehensive fitnes app to maintain and log your weight and also to track their weight loss journey.
+
 ---
 
 ## 🛠️ Technical Proficiencies
