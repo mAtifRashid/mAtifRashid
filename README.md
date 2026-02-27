@@ -18,6 +18,9 @@ With over 2 years of industry experience, I specialize in Android and mobile dev
 ### 🎯 **[My Clinic](https://play.google.com/store/apps/details?id=com.myclinic.ksa&hl=en)**
 A healthcare platform streamlining patient-doctor interactions, providing easy appointment scheduling, secure medical records, and telehealth consultations.
 
+### 🤰 **[Footstep Champ](https://play.google.com/store/apps/details?id=com.techsacare.stepcount&hl=en)**
+Step Count is your ultimate daily step tracker that helps you stay active, motivated, and connected. Whether you’re walking for fitness, joining friends, or staying consistent — Step Count makes tracking your movement fun and social.
+
 ### 🤰 **[iPregli](https://play.google.com/store/apps/details?id=com.techsasoft.pregli&hl=en)**
 A comprehensive pregnancy companion app offering AI-powered insights, health tracking, and expert guidance to assist expectant mothers throughout their journey.
 
