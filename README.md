@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Muhammad Atif Rashid
-### 🚀 Android & Mobile Application Developer | 5+ Years in Software | 3+ Years in Android
+### 🚀 Android & Mobile Application Developer | 5+ Years in Software as Mobile Application Developer
 
 With 5+ years in software and 3+ years specializing in Android and mobile development, I build scalable, production-ready apps for international markets. Passionate about clean architecture, modern UI/UX, and delivering real value to users.
 
