@@ -21,7 +21,7 @@ Currently contributing as **Android Developer at [Techsasoft](https://techsacare
 | 8 | [ZipFixers](https://play.google.com/store/apps/details?id=zipfixers.homeservices.handymenrepairs.plumberservices) | Flutter | On-demand home services marketplace (US) with real-time location-based matching |
 | 9 | [M Tag One Network](https://play.google.com/store/apps/details?id=com.ls.onenetwork.mtag) | Flutter | Toll account management — real-time balance, trip history, secure recharge |
 | 10 | [iLuvQuran](https://play.google.com/store/apps/details?id=pk.edu.uiit.arid_2481.quran) | Android | Kids Quran learning app with word-by-word translations, quizzes, and leaderboards |
-| 11 | [Utility & Camera Suite](https://play.google.com/store/apps/details?id=com.techsacare) | Android | Multi-app suite — keyboard, OCR translator, document scanner, QR scanner, photo editor, video recorder |
+| 11 | [Utility & Camera Suite] | Android | Multi-app suite — keyboard, OCR translator, document scanner, QR scanner, photo editor, video recorder |
 | 12 | [Fincraft Consulting](https://fincraftconsulting.com) | Web | Corporate website built with TypeScript, JavaScript and HTML5 |
 
 ---
